@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/MhayreeJhaine/Tip-Calculator/)
-- Live Site URL: [](https://mhayreejhaine.github.io/Tip-Calculator/)
+- Solution URL: (https://github.com/MhayreeJhaine/Tip-Calculator/)
+- Live Site URL: (https://mhayreejhaine.github.io/Tip-Calculator/)
 
 ## My process
 
